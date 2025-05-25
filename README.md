@@ -1,4 +1,4 @@
-# Spotify music tabs
+# StrumSync - The most powerful advanced AI music tab generator.
 
 *Automatically synced with your [v0.dev](https://v0.dev) deployments*
 
