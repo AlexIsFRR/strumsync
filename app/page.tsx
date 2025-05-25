@@ -307,8 +307,7 @@ export default function LandingPage() {
               <AccordionItem value="item-2" className="bg-white rounded-lg px-6">
                 <AccordionTrigger className="text-left">Do I need Spotify Premium?</AccordionTrigger>
                 <AccordionContent className="text-gray-600">
-                  Yes, Spotify Premium is required for full playback functionality. However, you can still generate and
-                  view tabs without Premium - you just won't be able to play the original audio through our app.
+                  No, you won't need Spotify Premium at all! Regardless of your Spotify account level, all the app needs, is to integrate your account, and access the music playback funcionality, recommendations, and more.  
                 </AccordionContent>
               </AccordionItem>
 
